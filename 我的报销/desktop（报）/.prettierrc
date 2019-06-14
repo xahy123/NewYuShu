@@ -1,0 +1,16 @@
+{
+	"printWidth": 200,
+	"tabWidth": 4,
+	"useTabs": true,
+	"semi": true,
+	"requirePragma": false,
+	"insertPragma": false,
+	"overrides": [
+		{
+			"files": ".prettierrc",
+			"options": {
+				"parser": "json"
+			}
+		}
+	]
+}

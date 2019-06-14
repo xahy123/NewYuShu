@@ -1,0 +1,32 @@
+.table-design-wrap {
+	display: flex;
+}
+
+.table-design-wrap .content {
+	flex: 1;
+}
+
+.table-design-wrap .contentLink a {
+	display: inline-block;
+	vertical-align: text-bottom;
+	margin-right: 32px;
+}
+
+.table-design-wrap .contentLink a img {
+	margin-right: 8px;
+}
+
+.table-design-wrap .extraContent {
+
+    min-width: 240px;
+    text-align: right;
+
+}
+
+.table-design-tabs {
+	padding: 0 24px;
+}
+
+.table-design-tabs .ant-tabs-bar {
+	margin: 0;
+}
